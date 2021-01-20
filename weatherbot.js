@@ -1,3 +1,4 @@
+/* Welcome to Advanced Weather Bot */
 /*Type your code here .. */
 const welcome = "welcome";
 const option = "option";
